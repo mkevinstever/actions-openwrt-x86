@@ -10,5 +10,5 @@ src-git passwall_dependence https://github.com/xiaorouji/openwrt-passwall
 src-git r86s_quickinstaller https://github.com/R86S/R86S-QuickInstaller
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
-#src-git oldpackages http://git.openwrt.org/packages.git
+#src-git oldpackages https://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
