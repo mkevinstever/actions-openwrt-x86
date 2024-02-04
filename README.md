@@ -13,4 +13,9 @@
 - 固件编译方法来自于 [P3TERX](https://p3terx.com) 的 [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) 项目。
 - 固件源代码来源于 [LEDE](https://github.com/coolsnowwolf/lede) 项目。
 
-#####  [点击这里前往版本页面](https://github.com/mdaylight/actions-openwrt-x86/releases)
+## 如何下载
+- 前往release页面，找到所需对应日期的版本
+- 在assests中，找到squashfs efi img.tar.gz字样的文件，大小约为100M左右
+- 单击即可下载
+
+##  [点击这里前往版本页面](https://github.com/mdaylight/actions-openwrt-x86/releases)
