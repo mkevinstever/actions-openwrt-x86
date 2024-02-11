@@ -1,4 +1,4 @@
-* 2024年1月10日开始，LEDE源码存在bug会导致编译不成功，因此本项目可能无生成固件
+#### 2024年1月10日开始，LEDE源码存在bug会导致编译不成功，因此本项目可能无生成固件
 
 ## 使用 Github 云端编译 Openwrt固件
 本项目用于编译打包 `X86-64设备` 使用的 `openwrt` 固件。(公开仓库不占用Actions分钟数限制）
@@ -18,4 +18,4 @@
 - 在assests中，找到squashfs efi img.tar.gz字样的文件，大小约为100M左右
 - 单击即可下载
 
-##  [点击这里前往版本页面](https://github.com/mdaylight/actions-openwrt-x86/releases)
+####  [点击这里前往版本页面](https://github.com/mdaylight/actions-openwrt-x86/releases)
