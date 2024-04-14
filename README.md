@@ -1,4 +1,4 @@
-## Compiling OpenWrt Firmware Using GitHub Cloud
+## Using GitHub Actions to Compile OpenWrt Firmware
 This project is for compiling and packaging OpenWrt firmware for `X86-64 devices`.
 
 ## Instructions
