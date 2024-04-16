@@ -9,7 +9,7 @@ This project is for compiling and packaging OpenWrt firmware for `X86-64 devices
 
 ## References
 - Firmware compilation method is from [P3TERX](https://p3terx.com)'s [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) project.
-- Firmware source code is from the [LEDE](https://github.com/coolsnowwolf/lede) project.
+- Firmware source code is from the [Openwrt](https://github.com/openwrt/openwrt) project.
 
 ## How to Download
 - Visit the release page and find the version corresponding to the required date.
