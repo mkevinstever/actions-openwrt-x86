@@ -7,10 +7,6 @@ This project is for compiling and packaging OpenWrt firmware for `X86-64 devices
 - Login Information: Default gateway address: 192.168.1.1, Username: root, Password: password.
 - Note: Contains the Passwall component, and IPv6 proxy has been tested to have no issues (if global proxying of IPv6 traffic is required, besides checking the corresponding option on the webpage and setting supported server nodes, the router's own proxy should also be set to none).
 
-## References
-- Firmware compilation method is from [P3TERX](https://p3terx.com)'s [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) project.
-- Firmware source code is from the [Openwrt](https://github.com/openwrt/openwrt) project.
-
 ## How to Download
 - Visit the release page and find the version corresponding to the required date.
 - In the assets section, locate the file labeled squashfs efi img.tar.gz, approximately 100MB in size.
