@@ -1,7 +1,7 @@
 # Add links to here for extra software packages
 
 src-git packages https://github.com/coolsnowwolf/packages
-src-git luci https://github.com/coolsnowwolf/luci
+src-git luci https://github.com/mkevinstever/luci
 src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main
