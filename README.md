@@ -1,6 +1,8 @@
 # Using GitHub Actions to Compile OpenWrt Firmware
 This project is use for compiling and packaging OpenWrt firmware for `X86-64 devices`.
 
+(Default with english/traditional chinese/simplified chinese support)
+
 ## Instructions
 - Install Method: Boot Windows PE from a USB drive, then open any img writing tool. Follow the prompts on the interface to write the firmware to the device disk. Alternatively, boot Ubuntu LiveCD from a USB drive and use the `dd` command to write the firmware from the removable disk to the device disk.
 - Firmware Upgrade: You can directly upgrade the firmware by uploading the downloaded tar.gz file via the web management interface: `System` -> `Backup/Flash Firmware` -> `Flash new firmware`, and follow the prompts to upgrade. Alternatively, you can upload the firmware to `/tmp` on the device via SCP, then run `sysupgrade /tmp/(firmware name)` in SSH to upgrade the firmware.
