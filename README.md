@@ -1,4 +1,4 @@
-## Using GitHub Actions to Compile OpenWrt Firmware
+# Using GitHub Actions to Compile OpenWrt Firmware
 This project is use for compiling and packaging OpenWrt firmware for `X86-64 devices`.
 
 ## Instructions
